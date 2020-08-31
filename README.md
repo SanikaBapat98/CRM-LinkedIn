@@ -1,5 +1,7 @@
 # CRM-LinkedIn
 
+Look at WIKI for details!
+
 ## Install
 
 ### Python Install
