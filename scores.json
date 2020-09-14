@@ -1,0 +1,12 @@
+[
+    ["vice president of product", "vp of product", "director of product"],
+    {
+        "ceo": 5, "vp" : 5, "vice" : 5, "president" : 5, "director" : 4, "chief": 3
+    },
+    {
+        "skills_score" : 2
+    },
+    {
+        "threshold" : 4
+    }
+]
